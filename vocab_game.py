@@ -109,7 +109,7 @@ ans3 = st.text_input(
 ans4 = st.text_input(
     "ข้อ 4: Chertam's baby `P _ _ _ _ i`. 🍒 ",
     value=st.session_state.ans4_val,
-
+)
 
 # อัปเดตค่าล่าสุดเข้าตัวแปร
 st.session_state.ans1_val = ans1
