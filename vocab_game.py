@@ -101,12 +101,10 @@ ans1 = st.text_input(
 ans2 = st.text_input(
     "ข้อ 2: Cats love to eat `f _ s h`. 🐟",
     value=st.session_state.ans2_val,
-
 )
 ans3 = st.text_input(
     "ข้อ 3: It is a delicious desert 'c h _ _ _ e c _ _ e '.",
     value=st.session_state.ans3_val,
-
 )
 ans4 = st.text_input(
     "ข้อ 4: Chertam's baby `P _ _ _ _ i`.",
